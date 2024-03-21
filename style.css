@@ -21,3 +21,19 @@ body {
   place-content: center;
   height: 100vh;
 }
+
+strong {
+  margin-top: 30px;
+}
+
+section {
+  position:absolute;
+  background: rgb(0, 0, 0);
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  inset: 0;
+  display:grid;
+  font-size: 48px;
+  place-content: center;
+}
